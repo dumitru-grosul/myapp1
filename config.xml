@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id			= "com.mwriley.pgbuild.sample"
+	id			= "com.dgrosul.pgbuild.sample"
 	version		= "1.0.0">
 
 	<name>PhoneGap Build Sample</name>
 
 	<description>
-		A sample PhoneGap application built to demo PhoneGap Build and the PhoneGap cloud debugger.
+		PhoneGap Build test1.
 	</description>
 
 	<author href="http://matthewriley.us">
-		Matthew Riley
+		Dumitru Grosul
 	</author>
 
 	<gap:platforms>
