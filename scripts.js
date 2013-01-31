@@ -18,11 +18,6 @@ function onDeviceReady() {
 
 
 function doStuff(){
-	console.log('This is a console log, in the cloud!');
-	console.log('Device Heading');
-	console.log(deviceHeading);
-	console.log('Device Name');
-	console.log(deviceName);
-	console.log('Device Version');
-	console.log(deviceVersion);
+	alert('Device Heading: ' + deviceHeading);
+	alert('Device Name: ' + deviceName);
 }
